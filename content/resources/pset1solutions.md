@@ -7,6 +7,7 @@ description: "This file contains problem set 1 solutions covering General Notes:
   \  When you compare results between models, don?t just compare the math.  Use words."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-472-public-economics-ii-spring-2004/8db38688f7ca67a3610ffbb3a43c676f_pset1solutions.pdf
 file_type: application/pdf
+parent_uid: dc3eec8a-dc35-a0a1-aac9-d9b13cdf606c
 resourcetype: Document
 title: pset1solutions.pdf
 uid: 8db38688-f7ca-67a3-610f-fbb3a43c676f

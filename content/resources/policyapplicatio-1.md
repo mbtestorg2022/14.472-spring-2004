@@ -4,6 +4,7 @@ description: This file contains policy application regarding the ?Cash Cow? of i
   experience rating.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-472-public-economics-ii-spring-2004/661b1972903718f6f1d5155b1d79e630_policyapplicatio.pdf
 file_type: application/pdf
+parent_uid: 42606420-c7a5-9a6e-7023-1a0609e32328
 resourcetype: Document
 title: policyapplicatio.pdf
 uid: 661b1972-9037-18f6-f1d5-155b1d79e630
